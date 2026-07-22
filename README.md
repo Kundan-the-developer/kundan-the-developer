@@ -1,6 +1,6 @@
-<h1>Hi, I'm Kundan Kumar! <br/><a href="https://www.linkedin.com/in/kundan-kumar-1249222a2/">Design Verification Trainee</a>
+<h1>Hi, I'm Kundan Kumar! <br/><a href="https://www.linkedin.com/in/kundan-kumar-1249222a2/">Design Verification Trainee & Patent Search Analyst</a>
 
-
+ 
 - <b>Verilog Practice(90 day challange) (Verilog Expert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>System Verilog</b>
