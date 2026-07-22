@@ -2,7 +2,7 @@
 
  
 - <b>Verilog Practice(90 day challange) (Verilog Expert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Verilog Basics]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Kundan-the-developer/Verilog/blob/main/README.md))
 - <b>System Verilog</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>UVM</b>
